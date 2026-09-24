@@ -1,0 +1,108 @@
+{
+ "v": 3,
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-09-24T03:13:01Z"
+ },
+ "title": "溫習計劃 昭和喫茶",
+ "launch": {
+  "view": "canvas"
+ },
+ "pages": [],
+ "boards": {
+  "Main.dc.html": {
+   "x": 0,
+   "y": 0,
+   "w": 794,
+   "h": 1123,
+   "title": "01 封面 · おしながき"
+  },
+  "P02-Focus.dc.html": {
+   "x": 874,
+   "y": 0,
+   "w": 794,
+   "h": 1123,
+   "title": "02 本週重點及整體安排"
+  },
+  "P03-Assessments-1.dc.html": {
+   "x": 1748,
+   "y": 0,
+   "w": 794,
+   "h": 1123,
+   "title": "03 評核總表 ①"
+  },
+  "P04-Assessments-2.dc.html": {
+   "x": 2622,
+   "y": 0,
+   "w": 794,
+   "h": 1123,
+   "title": "04 評核總表 ②"
+  },
+  "P05-This-Week.dc.html": {
+   "x": 3496,
+   "y": 0,
+   "w": 794,
+   "h": 1123,
+   "title": "05 本週每日時間表",
+   "is_interactive": true
+  },
+  "P06-Week4-5.dc.html": {
+   "x": 4370,
+   "y": 0,
+   "w": 794,
+   "h": 1123,
+   "title": "06 Week 4・Week 5"
+  },
+  "P07-Week6-7.dc.html": {
+   "x": 0,
+   "y": 1243,
+   "w": 794,
+   "h": 1123,
+   "title": "07 Week 6・Week 7"
+  },
+  "P08-Week8-12.dc.html": {
+   "x": 874,
+   "y": 1243,
+   "w": 794,
+   "h": 1123,
+   "title": "08 Week 8–12"
+  },
+  "P09-Week13-Drills.dc.html": {
+   "x": 1748,
+   "y": 1243,
+   "w": 794,
+   "h": 1123,
+   "title": "09 Week 13 之後・應試策略 ①"
+  },
+  "P10-Drills-2.dc.html": {
+   "x": 2622,
+   "y": 1243,
+   "w": 794,
+   "h": 1123,
+   "title": "10 應試策略 ②・通用原則"
+  },
+  "P11-Materials.dc.html": {
+   "x": 3496,
+   "y": 1243,
+   "w": 794,
+   "h": 1123,
+   "title": "11 缺漏教材追蹤",
+   "is_interactive": true
+  }
+ },
+ "order": [
+  "Main.dc.html",
+  "P02-Focus.dc.html",
+  "P03-Assessments-1.dc.html",
+  "P04-Assessments-2.dc.html",
+  "P05-This-Week.dc.html",
+  "P06-Week4-5.dc.html",
+  "P07-Week6-7.dc.html",
+  "P08-Week8-12.dc.html",
+  "P09-Week13-Drills.dc.html",
+  "P10-Drills-2.dc.html",
+  "P11-Materials.dc.html"
+ ],
+ "notes": {},
+ "designSystems": []
+}
